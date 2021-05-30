@@ -11,7 +11,7 @@ Check the demo hosted on https://filipeqs.github.io/joke-teller/
 First clone this repository.
 
 ```bash
-$ git clone https://github.com/filipeqs/picture-in-picture.git
+$ git clone https://github.com/filipeqs/joke-teller.git
 ```
 
 Open index.html
